@@ -4,7 +4,7 @@ Bem-vindo ao **BikeStore**, uma aplicação web para a sua loja de bicicletas! A
 
 ## 📜 Descrição
 
-O BikeStore é um site responsivo, desenvolvido para apresentar produtos relacionados a bicicletas, destacando os modelos disponíveis, os diferenciais da empresa e oferecendo um formulário de contato para os clientes.
+O BikeStore é um site desenvolvido para apresentar produtos relacionados a bicicletas, destacando os modelos disponíveis, os diferenciais da empresa e oferecendo um formulário de contato para os clientes.
 
 ## 📂 Estrutura do Projeto
 
